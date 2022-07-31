@@ -4,7 +4,7 @@ Weight tracker app that converts grams to ounces, kilograms, stones, pounds
 
 # End Result
 
-View the Web page in the Link below :  https://weight-app-eniolacodes.netlify.app/
+View the Web page in the Link below :  https://weight-converter-eniolacodes.netlify.app/
 
 # I developed this using 
 
